@@ -220,6 +220,7 @@ Expected waveform shows:
 
 ## Author
 
-**Seshu** | VLSI Design Portfolio | GitHub: [your-username]
+**Seshu** | VLSI Design Portfolio | GitHub: [https://github.com/seshu-8]
 
+Linkedin:[https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android}
 *Built as part of a VLSI course project and technical placement portfolio.*
